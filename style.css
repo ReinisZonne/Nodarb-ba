@@ -1,0 +1,35 @@
+.mainBox {
+	background-color: orange;
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+.header {
+	background-color: yellow;
+	height: 100px;
+}
+
+.left {
+	float: left;
+	width: 100px;
+	height: 400px;
+	background-color: grey;
+}
+.main {
+	float: left;
+	width: 600px;
+	height: 400px;
+	background-color: red;
+}
+.right {
+	float: left;
+	width: 100px;
+	height: 400px;
+	background-color: blue;
+}
+.footer {
+	width: 800px;
+	height: 100px;
+	background-color: purple;
+}
